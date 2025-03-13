@@ -1,7 +1,7 @@
 # Android_TH_Bai1_2
 
 ## Giới thiệu
-Đây là bài tập thực hành số 1 và 2 trong khóa học lập trình Android. Dự án này nhằm mục đích giúp sinh viên làm quen với các khái niệm cơ bản trong phát triển ứng dụng Android.
+Đây là bài tập thực hành số 1.2 trong môn thực hành Android. Dự án này nhằm mục đích giúp sinh viên làm quen với các khái niệm cơ bản trong phát triển ứng dụng Android.
 
 ## Cấu trúc dự án
 - **`app/`**: Thư mục chứa mã nguồn chính của ứng dụng.
