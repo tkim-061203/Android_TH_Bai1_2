@@ -26,7 +26,7 @@
 ## Yêu cầu hệ thống
 - **Android Studio**: Phiên bản mới nhất.
 - **JDK**: Phiên bản 8 trở lên.
-- **Thiết bị Android**: Chạy Android 5.0 (Lollipop) trở lên.
+- **Thiết bị Android**: Chạy Android Ladybug trở lên.
 
 ## Đóng góp
 Nếu bạn muốn đóng góp cho dự án, vui lòng tạo một "pull request" hoặc mở một "issue" để thảo luận về các thay đổi đề xuất.
